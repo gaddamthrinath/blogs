@@ -1,11 +1,6 @@
 ---
 ---
 
-/* prettier-ignore */
-{%- if jekyll.environment == 'production' -%}
-@use 'main.bundle';
-{%- else -%}
-@use 'main';
-{%- endif -%}
+@use 'main'; // or use 'main.bundle' if in production
 
 /* append your custom style below */
