@@ -1,6 +1,12 @@
 ---
 ---
 
-@use 'main'; // or use 'main.bundle' if in production
+@use 'main';
 
 /* append your custom style below */
+
+/* Example:
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+*/
