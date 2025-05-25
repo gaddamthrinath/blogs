@@ -26,7 +26,7 @@ In traditional applications, access control logic (e.g., "show only the current 
 
  ```
 
- This can lead to..:
+ This can lead to.:
 
 * Security vulnerabilities (e.g., developer error can expose sensitive rows).
 
