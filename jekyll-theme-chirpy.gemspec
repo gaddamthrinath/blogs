@@ -1,3 +1,4 @@
+# encoding: utf-8
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
@@ -31,5 +32,4 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-archives", "~> 2.2"
   spec.add_runtime_dependency "jekyll-sitemap", "~> 1.4"
   spec.add_runtime_dependency "jekyll-include-cache", "~> 0.2"
-
 end
